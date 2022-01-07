@@ -11,7 +11,7 @@ This repository is where the [Private Advertising Technology CG](https://patcg.g
 
 ### What happens next?
 
-3. **Evaluation and refinement.** As a community, we’ll discuss your proposal in the issue you raise. The Chairs may ask you to write up and iterate on an [explainer](https://github.com/w3ctag/w3ctag.github.io/blob/master/explainers.md). They'll help you spin up a repository for your explainer (and, eventually, your spec) to live in.
+3. **Evaluation and refinement.** As a community, we’ll discuss your proposal in the issue you raise. The Chairs may ask you to write up and iterate on an [explainer](https://github.com/w3ctag/tag.w3.org/blob/main/explainers/index.md). They'll help you spin up a repository for your explainer (and, eventually, your spec) to live in.
 4. **Adoption as a work item.** When your proposal is sufficiently fleshed out and you and the chairs agree, the group may formally adopt your proposal as a work item. This is when the group starts to work on a spec in parallel to the explainer.
 
 ### Standardization
