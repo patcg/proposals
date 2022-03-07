@@ -18,6 +18,8 @@ This repository is where the [Private Advertising Technology CG](https://patcg.g
 
 With the approval of the chairs and group, documents may enter this repository for evaluation and refinement as part of the process of working on proposals and getting them adopted. In order to support this process, please create the applicable new documents in their own folder so that each document in progress has a folder in this repository. In doing so these documents become governed by the [W3C Community License Agreement (CLA)](https://www.w3.org/community/about/agreements/cla/).
 
+Once a document is in the repository, it and its author will have access to the resources of the group to manage [ad-hoc meetings](https://github.com/patcg/meetings/issues/new?assignees=AramZS%2C+seanturner&labels=ad-hoc%3F&template=ad-hoc-meeting-template.md&title=Request+for+an+Ad-Hoc+Meeting+On%3A+) through the [meetings repository](https://github.com/patcg/meetings) under the PATCG group and continue to generate further documentation and discussion within the group.
+
 ### Standardization
 
 5. **Editing and iteration.** The group will iterate on the spec and explainer. We’ll discuss the idea, raise issues on it, hammer out the details, and consider feedback from any implementers who prototype the feature.
